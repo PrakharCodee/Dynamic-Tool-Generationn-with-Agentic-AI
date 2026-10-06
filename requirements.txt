@@ -1,8 +1,0 @@
-torch
-torchao
-transformers
-pillow
-numpy
-opencv-python
-scikit-image
-matplotlib
