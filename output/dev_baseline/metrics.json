@@ -1,0 +1,40 @@
+{
+  "accuracy": 0.66,
+  "correct": 33,
+  "total": 50,
+  "failure_rate": 0.0,
+  "failures": 0,
+  "mean_runtime": 0.23776665210723877,
+  "median_runtime": 0.22457218170166016,
+  "avg_steps": 1,
+  "per_type": {
+    "bar_chart_max": {
+      "correct": 13,
+      "total": 13,
+      "accuracy": 1.0
+    },
+    "count_shapes": {
+      "correct": 15,
+      "total": 15,
+      "accuracy": 1.0
+    },
+    "most_common_color": {
+      "correct": 5,
+      "total": 7,
+      "accuracy": 0.7142857142857143
+    },
+    "region_fraction": {
+      "correct": 0,
+      "total": 8,
+      "accuracy": 0.0
+    },
+    "line_angle": {
+      "correct": 0,
+      "total": 7,
+      "accuracy": 0.0
+    }
+  },
+  "mode": "BASELINE",
+  "seed": 42,
+  "vram_mb": 3691.65478515625
+}
